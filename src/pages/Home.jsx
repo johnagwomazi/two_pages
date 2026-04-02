@@ -3,8 +3,8 @@ function Home() {
     <div className="min-h-screen bg-blue-100 font-sans">
 
       {/* Header */}
-      <header className="bg-red-400 shadow-md py-6">
-        <h1 className="text-5xl font-bold text-center text-red-600 drop-shadow-md">
+      <header className="bg-red-700 shadow-md py-6">
+        <h1 className="text-5xl font-bold text-center text-yellow-600 drop-shadow-md">
           Krusty Krab
         </h1>
         <p className="text-center text-lg text-white mt-2">
