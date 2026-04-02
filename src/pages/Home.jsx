@@ -3,7 +3,7 @@ function Home() {
     <div className="min-h-screen bg-blue-100 font-sans">
 
       {/* Header */}
-      <header className="bg-yellow-400 shadow-md py-6">
+      <header className="bg-red-400 shadow-md py-6">
         <h1 className="text-5xl font-bold text-center text-red-600 drop-shadow-md">
           Krusty Krab
         </h1>
