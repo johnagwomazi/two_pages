@@ -4,7 +4,7 @@ function Home() {
 
       {/* Header */}
       <header className="bg-red-700 shadow-md py-6">
-        <h1 className="text-5xl font-bold text-center text-yellow-600 drop-shadow-md">
+        <h1 className="text-5xl font-bold text-center text-yellow-500 drop-shadow-md">
           Krusty Krab
         </h1>
         <p className="text-center text-lg text-white mt-2">
